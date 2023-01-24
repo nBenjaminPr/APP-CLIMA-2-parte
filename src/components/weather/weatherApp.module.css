@@ -1,0 +1,22 @@
+.weatherContainer {
+  width: 500px;
+  height: 500px;
+  margin: 130px auto;
+  
+}
+
+.row{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  
+
+}
+
+
+.box{
+  position: absolute;
+  margin-top: 5em;
+  width: 500px;
+}
+

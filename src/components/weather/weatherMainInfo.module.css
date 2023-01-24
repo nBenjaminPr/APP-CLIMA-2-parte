@@ -1,0 +1,75 @@
+.mainInfo {
+  background-image: url(https://images.pexels.com/photos/13551483/pexels-photo-13551483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  padding: 40px;
+  border-radius: 50px;
+  box-sizing: border-box;
+  padding: 50px;
+  height: 50pc;
+  margin-top: 50%;
+}
+
+.city {
+  font-size: 32px;
+  text-align: start;
+  font-weight: bolder;
+}
+
+.country {
+  font-size: 20px;
+  text-align: start;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.condition {
+  font-size: 24px;
+}
+
+.current {
+  font-size: 38px;
+  font-weight: bold;
+}
+
+
+
+
+.mainInfo2 {
+  background-image: url(https://images.pexels.com/photos/13551483/pexels-photo-13551483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  padding: 40px;
+  border-radius: 50px;
+  box-sizing: border-box;
+  padding: 50px;
+  height: 50pc;
+  margin-top: 50%;
+}
+
+.city2 {
+  font-size: 32px;
+  text-align: start;
+  font-weight: bolder;
+  margin-top: 90%;
+}
+
+.country2 {
+  font-size: 20px;
+  text-align: start;
+}
+
+.row2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.condition2 {
+  font-size: 24px;
+}
+
+.current2 {
+  font-size: 38px;
+  font-weight: bold;
+}
